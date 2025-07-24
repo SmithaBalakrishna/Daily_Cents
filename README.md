@@ -9,6 +9,10 @@ DailyCents is a full-stack finance management web application built with **Djang
 - 🧾 Transactions management
 - 🌐 Responsive UI
 
+## 🖼️ Login Page Preview
+
+![Login Screen](frontend/public/login.png)
+
 ## Tech Stack
 
 - **Frontend**: React.js, TypeScript, Vite
